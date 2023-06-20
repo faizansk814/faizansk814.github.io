@@ -74,7 +74,8 @@ body {
     /* margin-top: var(--header-height); */
     font-family: var(--body-font);
     font-size: var(--normal-font-size);
-    background-color: var(--body-color);
+    /* background-color: var(--body-color); */
+    background-color:lightblue;
     /* background-color: #0A0225; */
     color: var(--text-color);
 }
