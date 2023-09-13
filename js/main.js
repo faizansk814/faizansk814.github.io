@@ -60,6 +60,7 @@ function transform_hamburger(){
     third.classList.toggle('third_span_active')
 }
 
+
 //! ============= resume button ==========
 document.getElementById("resume-button-1").onclick = () => {
     window.open("https://drive.google.com/file/d/1Qdgy1iFdKGqTGFfg0XhbfkIjneDdVLvz/view?usp=sharing");
