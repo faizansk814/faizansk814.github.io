@@ -528,6 +528,7 @@
     flex-wrap: wrap;
     gap: 1rem;
     margin-bottom: 20px;
+    padding: 0px 17px 0px 17px;
 }
 
 .project-tech-stack>span {
